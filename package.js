@@ -1,5 +1,6 @@
 // package metadata file for Meteor.js
-
+/**  
+ * @author {String} author eeemihaeee  *  */
 /* jshint strict:false */
 /* global Package:true */
 
