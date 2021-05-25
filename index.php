@@ -1,4 +1,4 @@
-//Старстовое окно
+//Стартовое окно
 <?php include "Table_maslo.php"; ?>
 <html>
     <head>
