@@ -101,3 +101,32 @@
     ]
   }
 }
+
+{
+  "name": "autodoc",
+  "version": "0.5.0",
+  "description": "Parse comments from source code, and use the output to automatically generate documentation and code snippets",
+  "main": "autodocCommentParser.js",
+  "scripts": {
+    "autodoc": "node autodocCommentParser.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mocon/autodoc.git"
+  },
+  "author": "Myles O'Connor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mocon/autodoc/issues"
+  },
+  "homepage": "https://github.com/mocon/autodoc#readme",
+  "dependencies": {
+    "comment-parser": "^0.4.0",
+    "html-entities": "^1.2.0",
+    "recursive-readdir": "^2.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.0"
+  }
+}
