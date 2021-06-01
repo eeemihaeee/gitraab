@@ -1,4 +1,5 @@
 /**  
+ * @name {String} name Header
  * @author {String} author eeemihaeee  *  */
 Петров Михаил, Уваров Александр,Илья Перетягин  ЭВТ-18-1б
 
