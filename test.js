@@ -1,3 +1,12 @@
+/**
+ * This is an example header component. This component is meant to be placed at the top of the page.
+ *
+ * @name {String} name Удаление строки
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+
 //УДАЛЕНИЕ СТРОКИ
 function DeletS( ogos){
 	$( document ).ready(function(){
