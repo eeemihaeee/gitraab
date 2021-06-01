@@ -1,5 +1,7 @@
 // package metadata file for Meteor.js
-
+/**  
+ * @name {String} name Header
+ * @author {String} author Петров Михаил  *  */
 /* jshint strict:false */
 /* global Package:true */
 

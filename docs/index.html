@@ -87,3 +87,35 @@ title: Bootstrap &middot; The world's most popular mobile-first and responsive f
     <a href="{{ site.expo }}" class="btn btn-outline btn-lg">Explore the Expo</a>
   </div>
 </div>
+
+<!doctype html>
+<html lang="en" gg-slide-nav-html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        <title>Design System Documentation</title>
+        <link rel="icon" href="./favicon.ico">
+        <meta name="description" content="Autodoc generated Documentation">
+        <meta name="author" content="Myles O'Connor">
+        <link rel="stylesheet" href="https://ds.gumgum.com/staging/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/themes/prism.min.css">
+        <script src="https://unpkg.com/react@15.3.0/dist/react.js"></script>
+        <script src="https://unpkg.com/react-dom@15.3.0/dist/react-dom.js"></script>
+        <script src="https://unpkg.com/babel-core@5.8.38/browser.min.js"></script>
+        <script src="https://unpkg.com/jquery@3.1.0/dist/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.5.1/prism.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <body class="gg-theme-mantii -has-page-header -has-slide-nav" gg-slide-nav>
+        <!-- Loading animation -->
+        <div class="gds-loading -z-1">
+            <div class="gds-loading__dot gds-loading__dot--lg"></div>
+        </div>
+
+        <!-- React app injected here -->
+        <div data-ui-role="content" class="-z-2"></div>
+
+        <!-- React app -->
+        <script type="text/babel" src="./app.js"></script>
+    </body>
+</html>
