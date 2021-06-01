@@ -1,3 +1,9 @@
+/**
+ * @name {String} name Авторизация к бд
+ *
+ * @author {String} author Уваров Александр
+ *
+ */
 <?php 
 include "Table_maslo.php"; 
 include "dictionary.php";
