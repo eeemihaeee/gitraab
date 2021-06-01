@@ -1,6 +1,9 @@
+ /**  
+ * @name {String} name ОЧИСТКА ТАБЛИЦЫ
+ * @author {String} author eeemihaeee  *  */
 <?php 
     include "BaseVar.php";
-	//ОЧИСТКА ТАБЛИЦЫ	
+		
 	$zap = "truncate table log";
 	$bd->query($zap);	
 ?>
