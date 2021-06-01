@@ -1,3 +1,10 @@
+/**
+ * @name {String} name Обновление
+
+ * @author {String} author Уваров Александр
+ *
+ */
+
 <?php 
 	include "BaseVar.php";
 	$tab = htmlentities(file_get_contents("tanos.txt"));
