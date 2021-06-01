@@ -1,3 +1,12 @@
+/**
+ *
+ * @name {String} name Переименование столбцов
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+
+
 <?php
 	include "BaseVar.php";
 	
