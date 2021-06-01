@@ -1,4 +1,12 @@
-@author {String} author Перетягин Илья
+/**
+ * This is an example header component. This component is meant to be placed at the top of the page.
+ *
+ * @name {String} name Удаление столбцов
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+
 <?php
 	include "BaseVar.php";
 	
