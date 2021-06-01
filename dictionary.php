@@ -1,3 +1,11 @@
+/**
+ *
+ * @name {String} name Проверка полей при регистрации
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+ 
 <?php
 
 		//function strip_data($text) // фильтрация строки 
