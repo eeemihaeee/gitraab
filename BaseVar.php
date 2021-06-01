@@ -1,3 +1,10 @@
+/**
+ * @name {String} name Операции с таблицами
+ *
+ * @author {String} author Уваров Александр
+ *
+ */
+ 
 <script src ="spisok.js"></script>
 
 
