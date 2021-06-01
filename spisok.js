@@ -1,4 +1,6 @@
-// УДАЛЕНИЕ ТАБЛИЦЫ
+ /**  
+ * @name {String} name удаление таблицы
+ * @author {String} author eeemihaeee  *  */
 function DeletTable( ogone){
 	$( document ).ready(function(){
 		$.ajax({
