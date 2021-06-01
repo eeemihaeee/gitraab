@@ -1,3 +1,11 @@
+/**
+ *
+ * @name {String} name Создание таблицы
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+ 
 <?php
 include "BaseVar.php";
 	$table_title=$_POST["nametable"];

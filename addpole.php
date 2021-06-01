@@ -1,3 +1,10 @@
+/**
+ *
+ * @name {String} name Добавление строки
+
+ * @author {String} author Перетягин Илья
+ *
+ */
 
 <?php
 include "BaseVar.php";

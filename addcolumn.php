@@ -1,3 +1,11 @@
+/**
+ *
+ * @name {String} name Добавление столбцов
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+ 
 <?php
 include "BaseVar.php";
 	if(isset($_POST['column']))
