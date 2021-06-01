@@ -1,3 +1,6 @@
+ /**  
+ * @name {String} name вывод 1 страницы
+ * @author {String} author eeemihaeee  *  */
 <?php 
 	include "BaseVar.php";
 // ЗАПРОСЫ НА ПЕРВОЙ СТРАНИЦЕ 
