@@ -1,3 +1,10 @@
+/**
+ *
+ * @name {String} name Очистка таблицы
+
+ * @author {String} author Перетягин Илья
+ *
+ */
 <?php 
     include "BaseVar.php";
 	//ОЧИСТКА ТАБЛИЦЫ	
