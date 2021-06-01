@@ -1,3 +1,10 @@
+/**
+ * @name {String} name Обновление полей
+
+ * @author {String} author Уваров Александр
+ *
+ */
+
 <?php
 include "BaseVar.php";
 		
