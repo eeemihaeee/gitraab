@@ -1,6 +1,4 @@
 /**
- * This is an example header component. This component is meant to be placed at the top of the page.
- *
  * @name {String} name Подключение к базе данных
 
  * @author {String} author Уваров Александр
