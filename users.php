@@ -1,3 +1,10 @@
+/**
+ * @name {String} name Операции пользователя
+
+ * @author {String} author Уваров Александр
+ *
+ */
+
 <?php include "Table_maslo.php"; ?>
 <html>
     <head>
