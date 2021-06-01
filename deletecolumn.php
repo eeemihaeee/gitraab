@@ -1,3 +1,4 @@
+@author {String} author Перетягин Илья
 <?php
 	include "BaseVar.php";
 	
