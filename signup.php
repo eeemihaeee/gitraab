@@ -1,3 +1,7 @@
+	 /**  
+ * @name {String} name форма для регитсрации-----------------------------
+ * @author {String} author eeemihaeee  *  */
+	
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="dist/css/bootstrap.min.css" >		
 	<link rel="stylesheet" href="css/Style.css">	
