@@ -1,4 +1,7 @@
-//Проверка формы регистрации
+/**  
+ * @name {String} name роверка формы регистрации и авторизации
+ * @author {String} author eeemihaeee  *  */
+
 function proverka()
 {
 	var Value = $('#sugar').val();
@@ -67,7 +70,7 @@ $('#tomato').keyup(function(){
 	proverka();
 });
 
-//Проверка формы авторизации
+
 
 function Aproverka() // Блокировка кнопки ,если поля не заполнены
 {
