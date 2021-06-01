@@ -1,3 +1,9 @@
+/**
+ * @name {String} name Список таблиц по кнопке
+ *
+ * @author {String} author Уваров Александр
+ *
+ */
 <?php 
 	include "BaseVar.php";
 	$name_table = $_POST['pic'];
