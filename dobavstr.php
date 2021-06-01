@@ -1,3 +1,11 @@
+/**
+ *
+ * @name {String} name Добавление строки
+
+ * @author {String} author Перетягин Илья
+ *
+ */
+
 <?php 
 	include "BaseVar.php";
 	$tab = htmlentities(file_get_contents("tanos.txt"));
