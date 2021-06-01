@@ -1,3 +1,9 @@
+/**
+ * @name {String} name Список таблиц
+
+ * @author {String} author Уваров Александр
+ *
+ */
 <?php
 	include "BaseVar.php";  
 	$dw = $_POST['picd'];
