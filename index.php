@@ -1,4 +1,6 @@
-//Стартовое окно
+ /**  
+ * @name {String} name стартовое окно
+ * @author {String} author eeemihaeee  *  */
 <?php include "Table_maslo.php"; ?>
 <html>
     <head>
